@@ -1,3 +1,6 @@
 [submodule "Extract_Sort_Tags"]
 	path = Extract_Sort_Tags
 	url = git@github.com:ImWayden/Extract_Sort_Tags.git
+[submodule "RemoveMultiplayerCharacter"]
+	path = RemoveMultiplayerCharacter
+	url = git@github.com:ImWayden/RemoveMultiplayerCharacter.git
