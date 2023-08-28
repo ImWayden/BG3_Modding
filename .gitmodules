@@ -1,0 +1,3 @@
+[submodule "Extract_Sort_Tags"]
+	path = Extract_Sort_Tags
+	url = git@github.com:ImWayden/Extract_Sort_Tags.git
